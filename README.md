@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sudarshan
-- 👀 I’m interested in prgramming and ethical hacking 
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on bug bounties and ethical hacking related stuffs 
+- 👀 Programmer and Cybersecurity Researcher
+- 💞️ Contributing to Open source
 - 📫 You can reach me at https://www.linkedin.com/in/sudarshan-s-psgtech/
 
 <!---
