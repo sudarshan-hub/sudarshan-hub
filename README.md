@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudarshan
 - 👀 Programmer and Cybersecurity Researcher
-- 💞️ Contributing to Open source
+- 💻 Contributing to Open source
 - 📫 You can reach me at https://www.linkedin.com/in/sudarshan-s-psgtech/
 
 <!---
